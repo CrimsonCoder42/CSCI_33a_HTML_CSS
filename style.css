@@ -1,4 +1,10 @@
-h1{
+div{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+div h2{
     color: springgreen;
-    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
