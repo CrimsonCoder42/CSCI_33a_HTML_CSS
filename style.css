@@ -8,3 +8,11 @@ div h2{
     color: springgreen;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+#first{
+    color: greenyellow;
+}
+
+.first{
+    color:green;
+}
